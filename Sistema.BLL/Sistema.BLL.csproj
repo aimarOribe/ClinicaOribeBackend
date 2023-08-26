@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sistema.DAL\Sistema.DAL.csproj" />
+    <ProjectReference Include="..\Sistema.DTO\Sistema.DTO.csproj" />
+    <ProjectReference Include="..\Sistema.Model\Sistema.Model.csproj" />
+    <ProjectReference Include="..\Sistema.Utility\Sistema.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

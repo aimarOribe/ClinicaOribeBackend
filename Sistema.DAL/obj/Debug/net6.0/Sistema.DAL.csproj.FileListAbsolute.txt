@@ -1,0 +1,15 @@
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.DAL\bin\Debug\net6.0\Sistema.DAL.deps.json
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.DAL\bin\Debug\net6.0\Sistema.DAL.dll
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.DAL\bin\Debug\net6.0\Sistema.DAL.pdb
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.DAL\obj\Debug\net6.0\Sistema.DAL.csproj.AssemblyReference.cache
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.DAL\obj\Debug\net6.0\Sistema.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.DAL\obj\Debug\net6.0\Sistema.DAL.AssemblyInfoInputs.cache
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.DAL\obj\Debug\net6.0\Sistema.DAL.AssemblyInfo.cs
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.DAL\obj\Debug\net6.0\Sistema.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.DAL\obj\Debug\net6.0\Sistema.DAL.dll
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.DAL\obj\Debug\net6.0\refint\Sistema.DAL.dll
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.DAL\obj\Debug\net6.0\Sistema.DAL.pdb
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.DAL\obj\Debug\net6.0\ref\Sistema.DAL.dll
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.DAL\bin\Debug\net6.0\Sistema.Model.dll
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.DAL\bin\Debug\net6.0\Sistema.Model.pdb
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.DAL\obj\Debug\net6.0\Sistema.DAL.csproj.CopyComplete

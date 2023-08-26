@@ -1,0 +1,17 @@
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.Utility\bin\Debug\net6.0\Sistema.Utility.deps.json
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.Utility\bin\Debug\net6.0\Sistema.Utility.dll
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.Utility\bin\Debug\net6.0\Sistema.Utility.pdb
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.Utility\obj\Debug\net6.0\Sistema.Utility.csproj.AssemblyReference.cache
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.Utility\obj\Debug\net6.0\Sistema.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.Utility\obj\Debug\net6.0\Sistema.Utility.AssemblyInfoInputs.cache
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.Utility\obj\Debug\net6.0\Sistema.Utility.AssemblyInfo.cs
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.Utility\obj\Debug\net6.0\Sistema.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.Utility\obj\Debug\net6.0\Sistema.Utility.dll
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.Utility\obj\Debug\net6.0\refint\Sistema.Utility.dll
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.Utility\obj\Debug\net6.0\Sistema.Utility.pdb
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.Utility\obj\Debug\net6.0\ref\Sistema.Utility.dll
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.Utility\bin\Debug\net6.0\Sistema.DTO.dll
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.Utility\bin\Debug\net6.0\Sistema.Model.dll
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.Utility\bin\Debug\net6.0\Sistema.DTO.pdb
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.Utility\bin\Debug\net6.0\Sistema.Model.pdb
+C:\Users\Aimar\source\repos\SistemaConsultaMedica\Sistema.Utility\obj\Debug\net6.0\Sistema.Utility.csproj.CopyComplete
